@@ -23,7 +23,7 @@ export function MobileNavbar() {
           <img src="/favicon.png" alt="RythmRevival" className="h-8 w-8 mr-2" />
         </a>
         <h2 className="text-white text-xl">
-          <a href="#">Rythm Revival</a>
+          <a href="#">Rhythm Revival</a>
         </h2>
       </div>
       <button className="rounded-full bg-black/40 p-1" onClick={toggleSidebar}>
